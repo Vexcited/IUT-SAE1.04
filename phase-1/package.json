@@ -1,0 +1,9 @@
+{
+  "name": "iut-s1-04",
+  "main": "index.js",
+  "author": "Mikkel RINGAUD",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.4"
+  }
+}
