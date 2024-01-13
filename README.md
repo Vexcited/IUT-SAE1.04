@@ -8,6 +8,3 @@ SAÉ consistant à créer une base de données, puis l'analyser.
 
 Pour chaque phase du sujet, on a un dossier `phase-<numéro>`.
 À l'intérieur de ce dossier, je mets les fichiers nécessaires à la phase.
-
-Si des requêtes SQL ont été demandées, elles seront dans un dossier `queries` à la racine du dossier de la phase.
-À l'intérieur, les fichiers seront nommés `<numéro>.sql` avec `<numéro>` étant l'ordre dans lequel les requêtes ont été demandées.
