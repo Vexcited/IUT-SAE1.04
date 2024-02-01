@@ -1,4 +1,4 @@
--- INSERT INTO Game (name, platform_id, year, publisher_id, na_sales, eu_sales, jp_sales, other_sales, genre_id)
+INSERT INTO Game (name, platform_id, year, publisher_id, na_sales, eu_sales, jp_sales, other_sales, genre_id)
 SELECT
     VG_SALES.Name as name,
     Platform.id as platform_id,
